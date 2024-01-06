@@ -1,0 +1,9 @@
+[font]
+size = 10.0
+
+[font.normal]
+family = "Source Code Pro"
+
+[window]
+dynamic_title = true
+opacity = 0.9
