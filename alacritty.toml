@@ -4,10 +4,12 @@ size = 10.0
 [font.normal]
 family = "Source Code Pro"
 
-[shell]
+[terminal.shell]
 args = ["-l", "-c", "tmux attach || tmux"]
 program = "/bin/bash"
 
 [window]
 dynamic_title = true
 opacity = 0.9
+
+[terminal]
